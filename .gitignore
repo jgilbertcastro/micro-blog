@@ -34,7 +34,11 @@ build/Release
 
 # Dependency directories
 node_modules/
+node_modules
 jspm_packages/
+bower_components/
+bower_componets
+
 
 # TypeScript v1 declaration files
 typings/
@@ -59,3 +63,29 @@ typings/
 
 # next.js build output
 .next
+
+### Angular ###
+## Angular ##
+# compiled output
+dist/
+tmp/
+app/**/*.js
+app/**/*.js.map
+
+# IDEs and editors
+.idea/
+
+# misc
+.sass-cache/
+connect.lock/
+coverage/
+libpeerconnection.log/
+npm-debug.log
+testem.log
+typings/
+
+*.sublime*
+
+psd
+thumb
+sketch

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "cd micro-blog-api && node index.js"
+    "start": "cd micro-blog-api && npm install && node index.js"
   },
   "keywords": [],
   "author": "",
